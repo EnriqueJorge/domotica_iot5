@@ -4,5 +4,4 @@ creamos un servidor Iot con Home Assistant. Con la creación de este servidor em
 una ESP32 y una ESP8266. Una vez conectados los dispositivos usamos los programas correspondientes para dar ciertas instrucciones a los dispositivos.
 Después de esto, creamos automatizaciones para cada uno de los dispositivos, de esta forma podemos controlar los dispositivos a nuestro agrado.
 
-A continuación, veremos una maqueta en la que utilizamos los dispositivos como si fuera para la vida real.
-
+Lista de dispositivos:
