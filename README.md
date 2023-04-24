@@ -10,3 +10,6 @@ Lista de dispositivos:
 -Luz Led
 -Relé
 -Sensor binario: PIR o botón
+
+![Uploading imaxemaqueta.png…]()
+k
