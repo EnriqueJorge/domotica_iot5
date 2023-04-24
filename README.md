@@ -5,3 +5,8 @@ una ESP32 y una ESP8266. Una vez conectados los dispositivos usamos los programa
 Después de esto, creamos automatizaciones para cada uno de los dispositivos, de esta forma podemos controlar los dispositivos a nuestro agrado.
 
 Lista de dispositivos:
+-DHT11
+-LCD Display
+-Luz Led
+-Relé
+-Sensor binario: PIR o botón
