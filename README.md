@@ -18,5 +18,6 @@ Esta es una maqueta en la que utlilizamos varios dispositivos para que fuera lo 
 
 ![image](https://user-images.githubusercontent.com/130547382/235864150-c72e47e0-fe5a-428a-8219-de8054c4ba82.png)
 
-![Mapa Mental](https://user-images.githubusercontent.com/130547382/235864466-fce48ea0-e594-4da7-8c28-7b91a9e7dcd0.jpg)
+![Mapa Mental (1)](https://user-images.githubusercontent.com/130547382/235864692-5af593f8-1a26-40a6-a79c-933377930030.jpg)
+
 
