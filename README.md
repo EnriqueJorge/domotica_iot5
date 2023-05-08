@@ -16,8 +16,16 @@ Lista de dispositivos:
 
 Esta es una maqueta en la que utlilizamos varios dispositivos para que fuera lo mas parecido a una casa
 
+
+
+
 ![image](https://user-images.githubusercontent.com/130547382/235864150-c72e47e0-fe5a-428a-8219-de8054c4ba82.png)
+Este es un flujo de trabajo utilizado para organizarnos a la hora de trabajar.
+
+
+
 
 ![Mapa Mental (1)](https://user-images.githubusercontent.com/130547382/235864692-5af593f8-1a26-40a6-a79c-933377930030.jpg)
+Este es un mapa mental donde aparece todo lo que hemos hecho.
 
 
